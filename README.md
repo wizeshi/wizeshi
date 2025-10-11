@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**wizeshi/wizeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ My name is wizeshi and I'm an aspiring software developer.  
+Found some love for the game very young, now trying to do something with it!  
 
-Here are some ideas to get you started:
+🔭 Right now, I'm actively developing my most recent project, [wisp](https://github.com/wizeshi/wisp)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ I've worked with:
+- Javascript / TypeScript:
+  - Electron
+  - NodeJS
+  - React
+- Java:
+  - Minecraft Forge
+  -  FabricMC
+- Python:
+  - Tkinter
+  - PyGame
+  - PyQT
