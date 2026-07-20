@@ -1,13 +1,5 @@
-## Hi there 👋
+currently working on [wisp](https://github.com/wizeshi/wisp)
 
-✨ My name is wizeshi and I'm an aspiring software developer.  
-Found some love for the game very young, now trying to do something with it!  
+self-taught since 12yo, trying to get into a decent CS degree while doing my own stuff
 
-🔭 Right now, I'm actively developing my most recent project, [wisp](https://github.com/wizeshi/wisp)!
-
-⚡ I've worked with:
-  - Electron & Tauri
-  - Dart & Flutter
-  - React & NodeJS
-  - Minecraft Forge & Fabric
-  - Tkinter & PyGame
+reach me on discord, same name.
